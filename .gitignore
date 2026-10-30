@@ -1,0 +1,12 @@
+node_modules/
+dist/
+src-tauri/target/
+src-tauri/resources/tools/*.exe
+src-tauri/resources/tools/*.dll
+src-tauri/resources/tools/ffmpeg/
+*.log
+.DS_Store
+work/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts

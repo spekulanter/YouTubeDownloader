@@ -1,0 +1,27 @@
+YouTube Downloader 0.1.4 pre Windows 11 (64-bit)
+
+Odporucana moznost: instalacka
+1. Spusti subor YouTube Downloader_0.1.4_x64-setup.exe.
+2. Dokonci instalaciu pre svojho pouzivatela.
+3. Spusti YouTube Downloader z ponuky Start.
+
+Prenosna verzia bez instalacie
+1. Rozbal cely YouTubeDownloader_0.1.4_Windows_x64_portable.zip.
+2. Otvor rozbaleny priecinok YouTubeDownloader.
+3. Spusti YouTubeDownloader.exe. Priecinok tools musi zostat vedla aplikacie.
+
+Vloz YouTube URL, vyber kvalitu alebo audio format, cielovy priecinok a Stiahnut.
+Balik obsahuje yt-dlp, Deno, FFmpeg a ffprobe. Python ani Rust nepotrebujes.
+Windows WebView2 musi byt dostupny; instalacka ho moze doplnit.
+
+Premenovanie zachovava povodne interne ID aplikacie a kluc historie.
+Nastroje a historia sa ukladaju do pouzivatelskych dat aplikacie ako predtym.
+Ide o nezavislu aplikaciu, nie oficialny produkt YouTube ani Google.
+
+Verzia 0.1.4 opravuje prazdne slovenske texty instalacky pri aktualizacii.
+Tmavy a svetly rezim sa prepina tlacidlom vpravo hore ako vo verzii 0.1.3.
+Volba sa ulozi aj po zavreti programu. Cislo verzie je vedla nazvu aplikacie.
+Oprava stahovania videi s diakritikou z verzie 0.1.2 zostava zachovana.
+Spustanie cez pomocny CMD subor uz nie je potrebne. Baliky nemaju digitalny podpis.
+
+Na buduce upravy si zalohuj YouTubeDownloader_0.1.4_source.zip.
